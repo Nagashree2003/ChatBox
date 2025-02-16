@@ -19,7 +19,7 @@ This project is a **real-time chat web application** built with **Strapi** for t
 - **Frontend:** React  
 - **Backend:** **Strapi** (Headless CMS)  
 - **WebSocket Protocol** for real-time messaging  
-- **Database:** _Sqlite  
+- **Database:** Sqlite  
   
 
 ---
@@ -74,13 +74,7 @@ For any queries, feel free to reach out at:
 
 ---
 
-## ✅ Final Steps  
-📌 **Create a new file** named `README.md` in your GitHub repository.  
-📌 **Copy and paste** this content.  
-📌 **Commit the file** with a message like `"Added README.md"`.  
-📌 **Push the changes** to GitHub.  
 
-Now your **Chatbox** repository has a **visually appealing and professional README.md**! 🚀  
 
 
 
