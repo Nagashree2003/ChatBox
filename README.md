@@ -16,11 +16,11 @@ This project is a **real-time chat web application** built with **Strapi** for t
 ---
 
 ## 🛠️ Tech Stack  
-- **Frontend:** _(Your chosen stack: React, Vue, Angular, etc.)_  
+- **Frontend:** React  
 - **Backend:** **Strapi** (Headless CMS)  
 - **WebSocket Protocol** for real-time messaging  
-- **Database:** _Sqlite_  
-  _  
+- **Database:** _(Specify if using PostgreSQL, MySQL, MongoDB, etc.)_  
+- **Authentication:** _(JWT, OAuth, or other methods)_  
 
 ---
 
@@ -37,4 +37,51 @@ Ensure you have the following installed:
 #### 1️⃣ Clone the repository  
 ```sh
 git clone https://github.com/Nagashree2003/chatbox.git  
-cd chatbox  
+cd chatbox
+
+## Install backend dependencies
+cd backend
+npm install socket.io
+
+
+## Install frontend dependencies
+cd frontend
+
+# Install the correct dependencies
+npm install socket.io-client
+npm install axios
+npm install react-router-dom
+npm install @headlessui/react
+npm install @heroicons/react
+
+## Start the backend server
+cd backend
+npm run develop
+## Start the frontend
+cd frontend
+npm run dev
+
+
+## 📜 License  
+📄 This project is licensed under the **MIT License**. Feel free to **use and modify** it as per your needs.  
+
+---
+
+## 📩 Contact  
+For any queries, feel free to reach out at:  
+📧 **Email:** nagunagashree61@gmail.com  
+🔗 **GitHub:** https://github.com/Nagashree2003 
+
+---
+
+## ✅ Final Steps  
+📌 **Create a new file** named `README.md` in your GitHub repository.  
+📌 **Copy and paste** this content.  
+📌 **Commit the file** with a message like `"Added README.md"`.  
+📌 **Push the changes** to GitHub.  
+
+Now your **Chatbox** repository has a **visually appealing and professional README.md**! 🚀  
+
+
+
+
