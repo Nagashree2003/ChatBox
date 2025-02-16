@@ -19,8 +19,8 @@ This project is a **real-time chat web application** built with **Strapi** for t
 - **Frontend:** React  
 - **Backend:** **Strapi** (Headless CMS)  
 - **WebSocket Protocol** for real-time messaging  
-- **Database:** _(Specify if using PostgreSQL, MySQL, MongoDB, etc.)_  
-- **Authentication:** _(JWT, OAuth, or other methods)_  
+- **Database:** _Sqlite  
+  
 
 ---
 
